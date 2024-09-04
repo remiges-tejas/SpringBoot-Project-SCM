@@ -1,0 +1,67 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Gradle specific
+.gradle/
+build/
+**/build/
+**/out/
+**/bin/
+**/libs/
+**/lib/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.hprof
+
+# Operating system specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.lock
+
+# Environment specific
+.env
+*.properties
+*.yml
+*.yaml
+
+# Other files
+*.jar
+*.war
+*.ear
+*.class
+*.log
+.classpath
+.factorypath
+.settings
+.HELP.md
+.node_modules/
+.package-lock.json
+
+.mvnw
+.mvnw.cmd
+
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
